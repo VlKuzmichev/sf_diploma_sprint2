@@ -19,6 +19,6 @@ $ helm upgrade --install --namespace default --values app-chart/values.yaml myap
 ```
 
 > Зайти в приложение по адресу ноды
-http://<ip-address>:30007
+http://ip-addr:30007
 
 > Готово.
